@@ -11,6 +11,8 @@ date: 15 Sep. 2026
 
 # ***Zernike Creator and Decomposer Toolbox***
 
+<img src="./images/odl.png" width="40" />
+
 This MATLAB-based toolbox allows for the creation of closed-form and factorial-free Zernike modes, and the Zernike decomposition of wavefronts. Closed form equations can also be custom-made as strings and imported in the decomposition script.
 
 ![Alt text](images/zernspyramid.png)
