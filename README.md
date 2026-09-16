@@ -6,13 +6,11 @@ date: 15 Sep. 2026
 [![Latest Stable Version](http://poser.pugx.org/phpunit/phpunit/v)](https://github.com/bhobert/Zernike-Creator-and-Decomposer-Toolbox/tree/main)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 <img src="https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" height="40" align="center"> **NASA Open Science 101 Certified**
+<img src="./images/odl.png" width="100" />
 
 ***
 
 # ***Zernike Creator and Decomposer Toolbox***
-
-<img src="./images/odl.png" width="40" />
-
 This MATLAB-based toolbox allows for the creation of closed-form and factorial-free Zernike modes, and the Zernike decomposition of wavefronts. Closed form equations can also be custom-made as strings and imported in the decomposition script.
 
 ![Alt text](images/zernspyramid.png)
