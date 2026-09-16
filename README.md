@@ -4,8 +4,8 @@ date: 15 Sep. 2026
 ---
 
 <p align="left">
-  <img src="./images/odl.png" height="40" style="vertical-align: middle;" />
   <a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active" height="40" style="vertical-align: middle;" /></a>
+  <img src="./images/odl.png" height="40" style="vertical-align: middle;" />
   <img src="https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" height="40" style="vertical-align: middle;" /> <strong>NASA Open Science 101 Certified</strong>
 </p>
 
