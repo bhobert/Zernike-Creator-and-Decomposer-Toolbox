@@ -66,9 +66,7 @@ Download the .zip and open any of the files in MATLAB. Alternatively, this packa
 
 ## ***quickZern***
 
-Generates symbolic expressions and wavefronts for closed-form solutions and factorial-free* approximations of real-valued Zernike polynomials.
-
-The function returns the Zernike decomposition and corresponding wavefronts for a specified radial mode and azimuthal frequency.
+Generates symbolic expressions and wavefronts for closed-form solutions and factorial-free* approximations of real-valued Zernike polynomials. The function returns the Zernike string solution and corresponding wavefronts for a specified radial mode and azimuthal frequency.
 
 $$
 \Delta Z_n^{|m|}(\rho,\theta)
