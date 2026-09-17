@@ -125,6 +125,8 @@ Selects the solver used to calculate the Zernike radial polynomial.
 | `'burnside'` | Uses the Burnside approximation* [3].                                              |
 | `'mortici'`  | Uses the Mortici approximation* [4].                                               |
 
+> **Note:** Factorial-free approximations do not necessarily need to satisfy the standard Zernike orthogonality constraints.
+
 # `normalize`
 
 Normalizes factorial-free results only. 
