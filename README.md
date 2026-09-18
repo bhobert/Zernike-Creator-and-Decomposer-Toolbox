@@ -203,7 +203,7 @@ Performs a Zernike decomposition on a wavefront image using the Moore-Penrose ps
 ## Syntax
 
 ```matlab
-[coeffs,res,zer]=zernDecomp(image, options)
+[coeffs,res,zer]=zernDecomp(image,options)
 ```
 
 ## Inputs
