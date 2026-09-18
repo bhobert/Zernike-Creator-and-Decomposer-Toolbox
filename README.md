@@ -33,7 +33,10 @@ This MATLAB-based toolbox allows for the creation of closed-form and factorial-f
 This code was generated at the Optical Diagnostics Lab at the New York Institute of Technology. 
 
 Please cite this code as: 
-[X] Hobert, Brianna (2026). Zernike Creator and Decomposer Toolbox MATLAB Central File Exchange. Retrieved Month DD, YYYY. 
+[X] Hobert, Brianna (2026). Zernike Creator and Decomposer Toolbox Github/MATLAB Central File Exchange. Retrieved Month DD, YYYY. 
+
+Acknowledgements: 
+Beta tested by Jared Plotkin, Avinash Somwaru, Sean Peters, and Jim Scire. 
 
 ***
 
