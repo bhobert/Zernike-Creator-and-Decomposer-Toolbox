@@ -92,6 +92,12 @@ For standard Zernike polynomials:
 ```matlab
 [zern,wf1,wf2,pupil]=quickZern(n,m,options)
 ```
+## Outputs
+| Name-Value | Description                                                   |
+| ---------- | ----------------------------------------------------------    |
+| `zern`     | A string or string array containing the closed-form solution. |
+| `wf1, wf2` | Images of the output Zernike wavefront phases.                |
+| `pupil`    | The pupil mask auto-generated to display the Zernike wavefront.|
 
 ## Inputs
 
@@ -206,6 +212,14 @@ Performs a Zernike decomposition on a wavefront image using the Moore-Penrose ps
 [coeffs,res,zer]=zernDecomp(image,options)
 ```
 
+## Outputs
+
+|Output|Description|
+|-|-|
+|`coeffs`|Zernike decomposition coefficient array.|
+|`res`|Residual wavefront after Zernike decomposition.|
+|`zer`|Zernike matrix used for the decomposition. [1]|
+
 ## Inputs
 
 |Input|Description|
@@ -248,16 +262,6 @@ The default pupil size is `1.0`. Valid values range from `0` to `1.0`.
 |Name-Value|Description|
 |-|-|
 |`showpupil`|Display the pupil mask over the input wavefront.|
-
-
-## Outputs
-
-|Output|Description|
-|-|-|
-|`coeffs`|Zernike decomposition coefficient array.|
-|`res`|Residual wavefront after Zernike decomposition.|
-|`zer`|Zernike matrix used for the decomposition. [1]|
-
 
 ## Example
 
